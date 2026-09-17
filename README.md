@@ -27,10 +27,11 @@ A command-line tool designed to download high-quality theme songs (OPs & EDs) fr
    cd batch-animethemes-downloader
 
 2. **Install Ffmpeg**
-   *For Windows*
+**For Windows**
    ```bash
    winget install Gyan.FFmpeg
-*For Linux, Windows and MacOS*
+   
+**For Linux, Windows and MacOS**
 you can download it manually from the official FFmpeg download page, 
 extract the zip and then copy everything inside the bin folder and
 paste it in batch-animethemes-downloader folder.

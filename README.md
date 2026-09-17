@@ -65,4 +65,4 @@ Looking for video downloads, advanced filtering, or an interactive interface? Ch
 - **Advanced Filters**: Exclude specific theme types (e.g., skip EDs, NC, or specific video resolutions).
 - **Enhanced Queue Management**: Pause, resume, and prioritize downloads on the fly.
 
-  [👉 Get the Pro Edition on Gumroad](https://gumroad.com/)
+  👉[Get the Pro Edition on Gumroad](https://gumroad.com/)

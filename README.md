@@ -26,6 +26,7 @@ A command-line tool designed to download high-quality theme songs (OPs & EDs) fr
    git clone https://github.com/reucon-684/Batch-AnimeThemes-Downloader.git
 
 2. **Install Ffmpeg**
+
 you can download it manually from the official FFmpeg download page, 
 extract the zip and then copy everything inside the bin folder and
 paste it in the Desktop along with batch.py.

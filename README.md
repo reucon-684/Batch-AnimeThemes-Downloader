@@ -64,4 +64,5 @@ Looking for video downloads, advanced filtering, or an interactive interface? Ch
 - **Graphical User Interface (GUI)**: Full desktop UI for easy point-and-click operation alongside the CLI.
 - **Advanced Filters**: Exclude specific theme types (e.g., skip EDs, NC, or specific video resolutions).
 - **Enhanced Queue Management**: Pause, resume, and prioritize downloads on the fly.
+
   [👉 Get the Pro Edition on Gumroad](https://gumroad.com/)

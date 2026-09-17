@@ -55,3 +55,13 @@ Then copy the XML to batch-themes-downloader folder.
 Either double click or
    ```bash
    python batch.py
+
+# Advanced Options & Video Support (Pro Version)
+
+Looking for video downloads, advanced filtering, or an interactive interface? Check out Batch AnimeThemes Downloader Pro available on Gumroad:
+
+- **Video Support**: Download themes in MP4 and WebM formats alongside MP3.
+- **Graphical User Interface (GUI)**: Full desktop UI for easy point-and-click operation alongside the CLI.
+- **Advanced Filters**: Exclude specific theme types (e.g., skip EDs, NC, or specific video resolutions).
+- **Enhanced Queue Management**: Pause, resume, and prioritize downloads on the fly.
+  [👉 Get the Pro Edition on Gumroad](https://gumroad.com/)

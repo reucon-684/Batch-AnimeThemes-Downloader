@@ -24,17 +24,11 @@ A command-line tool designed to download high-quality theme songs (OPs & EDs) fr
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/reucon-684/Batch-AnimeThemes-Downloader.git
-   cd batch-animethemes-downloader
 
 2. **Install Ffmpeg**
-**For Windows**
-   ```bash
-   winget install Gyan.FFmpeg
-   
-**For Linux, Windows and MacOS**
 you can download it manually from the official FFmpeg download page, 
 extract the zip and then copy everything inside the bin folder and
-paste it in batch-animethemes-downloader folder.
+paste it in the Desktop along with batch.py.
 
 ### How To Use
 
@@ -44,13 +38,13 @@ Navigate directly to the MyAnimeList Export Tool (Panel > Export).
 Select you want to export your Anime List.
 Click the Export My List button.
 A Zip File will Download, Extract it and rename the xml to myanimelist.xml.
-Then copy the XML to batch-themes-downloader folder.
+Then copypaste the XML to Desktop.
 2. **Export Your List For AniList:**
 Go to https://fern.ignoffo.dev/export.
 Type your AniList Username, Pick Export Format myanimelist.
 and Media Type Anime then click Export.
 then rename the xml to anilist.xml.
-Then copy the XML to batch-themes-downloader folder.
+Then copypaste the XML to Desktop.
 3. **Run The CLI:**
 Either double click or
    ```bash

@@ -67,9 +67,9 @@ Looking for video downloads, advanced filtering, or an interactive interface? Ch
 
 👉[Get the Pro Edition on Gumroad](https://gumroad.com/)
 
-###Support Me
+## Support Me
 If you find this tool helpful and want to support ongoing development or 
 need technical help, feel free to buy me a coffee!
 
-###License
+## License
 This project is licensed under the GPL v3 License - see the LICENSE file for details.

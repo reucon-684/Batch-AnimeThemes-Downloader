@@ -27,9 +27,9 @@ A command-line tool designed to download high-quality theme songs (OPs & EDs) fr
 
 2. **Install Ffmpeg**
 
-you can download it manually from the official FFmpeg download page, 
-extract the zip and then copy everything inside the bin folder and
-paste it in the Desktop along with batch.py.
+   you can download it manually from the official FFmpeg download page, 
+   extract the zip and then copy everything inside the bin folder and
+   paste it in the Desktop along with batch.py.
 
 ### How To Use
 

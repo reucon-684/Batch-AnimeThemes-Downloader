@@ -8,7 +8,7 @@ A command-line tool designed to download high-quality theme songs (OPs & EDs) fr
 
 - **List Import**: Seamlessly parse XML export files from MyAnimeList or AniList.
 - **Audio Extraction**: Downloads theme tracks directly in high-quality MP3 format.
-- **Automated Organization**: Automatically names and structures output files by anime title, song title, and theme type (OP/ED).
+- **Automated Organization**: Automatically names and structures output files by anime title and theme type (OP/ED).
 - **Fast CLI Execution**: Lightweight, terminal-driven tool built for fast bulk processing.
 
 ---
@@ -35,3 +35,23 @@ A command-line tool designed to download high-quality theme songs (OPs & EDs) fr
 you can download it manually from the official FFmpeg download page, 
 extract the zip and then copy everything inside the bin folder and
 paste it in batch-animethemes-downloader folder.
+
+### How To Use
+
+1. **Export Your List For MAL**
+Open your browser and log into MyAnimeList.
+Navigate directly to the MyAnimeList Export Tool (Panel > Export).
+Select you want to export your Anime List.
+Click the Export My List button.
+A Zip File will Download, Extract it and rename the xml to myanimelist.xml.
+Then copy the XML to batch-themes-downloader folder.
+2. **Export Your List For AniList**
+Go to https://fern.ignoffo.dev/export.
+Type your AniList Username, Pick Export Format myanimelist.
+and Media Type Anime then click Export.
+then rename the xml to anilist.xml.
+Then copy the XML to batch-themes-downloader folder.
+3. **Run The CLI**
+Either double click or
+   ```bash
+   python batch.py

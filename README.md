@@ -67,8 +67,9 @@ Looking for video downloads, advanced filtering, or an interactive interface? Ch
 🚀 Need to use a link and only download one anime worth of OP and ED instead? Then check out the [AnimeThemes Downloader!](https://github.com/reucon-684/AnimeThemes-Downloader)
 
 ## Support Me
-If you find this tool helpful and want to support my other development or 
-need technical help, feel free to buy me a coffee!
+If you find this tool helpful, want to support my future development or 
+need technical assistance, you can support me through Ko-fi
+[![Support me on Ko-fi](https://shields.io)](https://ko-fi.com)
 
 ## License
 This project is licensed under the GPL v3 License - see the LICENSE file for details.

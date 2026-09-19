@@ -68,7 +68,7 @@ Looking for video downloads, advanced filtering, or an interactive interface? Ch
 
 ## Support Me
 If you find this tool helpful, want to support my future development or 
-need technical assistance, you can support me through Ko-fi
+need technical assistance, you can support me through Ko-fi.
 [![Support me on Ko-fi](https://shields.io)](https://ko-fi.com)
 
 ## License

@@ -63,6 +63,9 @@ Looking for video downloads, advanced filtering, or an interactive interface? Ch
 
 👉[Get the Pro Edition on Gumroad](https://gumroad.com/)
 
+## AnimeThemes Downloader
+🚀 Need to use a link and only download one anime worth of OP and ED instead? Then check out the [AnimeThemes Downloader!](https://github.com/reucon-684/AnimeThemes-Downloader)
+
 ## Support Me
 If you find this tool helpful and want to support my other development or 
 need technical help, feel free to buy me a coffee!

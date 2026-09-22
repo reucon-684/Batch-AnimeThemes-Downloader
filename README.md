@@ -2,8 +2,9 @@
 
 A command-line tool designed to download high-quality theme songs (OPs & EDs) from [AnimeThemes.moe](https://animethemes.moe) in bulk using your **MyAnimeList (MAL)** or **AniList** export files.
 
-<img src="https://github.com/user-attachments/assets/b43ef96b-4e4d-4b2f-8e26-982728811464" alt="Terminal Demo" width="600" style="max-width: 100%;">
-
+<div align="left">
+<img src="https://github.com/user-attachments/assets/b43ef96b-4e4d-4b2f-8e26-982728811464" alt="Welcome to AniThemes Sourse Code" width="600" style="max-width: 100%;">
+</div>
 
 ## Features
 
